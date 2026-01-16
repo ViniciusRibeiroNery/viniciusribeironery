@@ -24,7 +24,7 @@
 
 ##
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusribeironery&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusribeironery&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=discord-old-blurple&hide_border=true&locale=pt&exclude_days=Sun%2CSat)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusribeironery&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusribeironery&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viniciusribeironery&theme=discord-old-blurple&hide_border=true&locale=pt&exclude_days=Sun%2CSat)](https://git.io/streak-stats) |
 |:-:|:-:|:-:|
 
 ##

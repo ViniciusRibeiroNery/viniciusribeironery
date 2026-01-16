@@ -30,7 +30,7 @@
 |:-:|:-:|
 
 <div>
- <a href="vininery2006@gmail.com" target="_blank"><img align="right" width="100" height="100" src="https://img.shields.io/badge/Gmail-%236F2DA8?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+ <a href="mailto:vininery2006@gmail.com" target="_blank"><img align="right" width="100" height="100" src="https://img.shields.io/badge/Gmail-%236F2DA8?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/vinicius-ribeiro-nery/" target="_blank"><img align="left" width="100" height="100" src="https://img.shields.io/badge/Linkedin-%236F2DA8?style=for-the-badge&logoColor=white"></a>
 </div>
 

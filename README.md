@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://beacons.ai/viniciusribeironery"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusribeironery&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=180">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusribeironery&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=1800">
   
   
 </div>

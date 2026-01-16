@@ -1,5 +1,5 @@
 ## Oi, sou o Vinicius Nery!
-
+## Sobre
 - 🔭 Atualmente trabalho com dados, python e automações
 - 🌱 Estou estudando python
 - 👯 Email para contado: vininery2006@gmail.com

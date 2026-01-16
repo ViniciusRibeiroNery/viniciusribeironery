@@ -42,4 +42,4 @@
   </picture>
 </div>
 
-##
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6F2DA8&section=footer&reversal=true&textBg=false&descAlign=50&descAlignY=50">

@@ -24,7 +24,8 @@
 
 ##
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusribeironery&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusribeironery&theme=midnight_purple) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusribeironery&theme=midnight_purple") |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusribeironery&theme=midnight_purple) |
 |:-:||:-:|
 
 ##

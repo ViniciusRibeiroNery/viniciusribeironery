@@ -24,10 +24,16 @@
 
 ##
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusribeironery&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusribeironery&theme=midnight_purple)
+
+##
+
 <div>
  <a href="vininery2006@gmail.com" target="_blank"><img align="right" width="100" height="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/vinicius-ribeiro-nery/" target="_blank"><img align="left" width="100" height="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 <div>
   <picture>

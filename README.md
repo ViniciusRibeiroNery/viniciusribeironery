@@ -2,13 +2,12 @@
 ## Sobre
 
 <div>
+
+  <p>Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e tenho interesse em seguir carreira na área de dados. Trabalho com Python aplicado à análise de dados e automações, além de possuir conhecimentos em Excel (VBA), Power BI e bancos de dados. Estou sempre buscando aprender, praticar e evoluir, focando em soluções eficientes, organizadas e orientadas a dados.
   <img align="right" alt="vini-gengar" height= "140" width="140" src="https://media.tenor.com/7nOwCz3oGYYAAAAi/gengar.gif">
 </div>
-- 🔭 Atualmente trabalho com dados, python e automações
-- 🌱 Estou estudando python
-- 👯 Email para contado: vininery2006@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Gosto de cultivar plantas e minha cor favorita é roxo
+
+
 
 # Linguagens
 

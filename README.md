@@ -18,7 +18,7 @@
   
 # Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)</div>
 
 ##
 

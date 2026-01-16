@@ -19,7 +19,7 @@
  </tr>   
 </table>
   
-# Linguagens
+# <a href="https://git.io/typing-svg"><img align="center" width="800" height="600" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Linguagens" alt="Typing SVG" /></a>
 
 <div align="center">
  <img width="100" height="100" src="https://skillicons.dev/icons?i=py">

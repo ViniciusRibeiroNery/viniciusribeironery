@@ -21,7 +21,7 @@
  </tr>   
 </table>
   
-# <a href="https://git.io/typing-svg"><img width="800" height="800"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&repeat=false&width=435&lines=Linguagens" alt="Typing SVG" /></a></a>
+<a href="https://git.io/typing-svg"><img width="800" height="800"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&repeat=false&width=435&lines=Linguagens" alt="Typing SVG"/></a></a>
 
 <div align="center">
  <img width="100" height="100" src="https://skillicons.dev/icons?i=py">

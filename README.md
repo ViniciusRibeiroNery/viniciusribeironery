@@ -32,7 +32,7 @@
  <a href="https://www.linkedin.com/in/vinicius-ribeiro-nery/" target="_blank"><img align="left" width="100" height="100" src="https://img.shields.io/badge/Linkedin-%236F2DA8?style=for-the-badge&logoColor=white"></a>
 </div>
 
-<div>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusribeironery/viniciusribeironery/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciusribeironery/viniciusribeironery/output/github-contribution-grid-snake.svg">

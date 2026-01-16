@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=viniciusribeironery&theme=discord-old-blurple&hide_border=true&locale=pt&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=viniciusribeironery&theme=discord-old-blurple&locale=pt_BR)](https://git.io/streak-stats)
  
 </div>
 

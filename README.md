@@ -8,7 +8,7 @@
 
 # Linguagens
 <div style = "display: inline_block"><br>
- <img style="float: right;" alt="vini-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
+ <img align="right" alt="vini-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
  <img style="float: right;" alt="vini-gengar" src="https://media.tenor.com/8wK0vZQK6nIAAAAC/gengar-pokemon.gif">
 
 ##

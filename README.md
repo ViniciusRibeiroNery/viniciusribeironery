@@ -19,7 +19,7 @@
 # Linguagens
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=py">
+ <img width="100" height="100" src="https://skillicons.dev/icons?i=py">
 </div>
 
 ##

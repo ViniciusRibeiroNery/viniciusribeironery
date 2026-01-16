@@ -7,11 +7,9 @@
 - ⚡ Fun fact: Gosto de cultivar plantas e minha cor favorita é roxo
 
 <img 
-  src="https://github-readme-stats.vercel.app/api
-  ?username=viniciusribeironery
-  &show_icons=true
-  &theme=dracula
-  &include_all_commits=true
-  &cache_seconds=1800"
+  src="https://streak-stats.demolab.com
+  ?user=viniciusribeironery
+  &theme=dracula"
 />
+
 

@@ -26,7 +26,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusribeironery&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusribeironery&theme=midnight_purple)
-![](https://github-readme-streak-stats.herokuapp.com?user=&theme=discord-old-blurple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 ##
 

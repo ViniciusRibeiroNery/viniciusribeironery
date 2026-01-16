@@ -8,7 +8,7 @@
 
   ##
 
-#Linguagens
+# Linguagens
 <div style = "display: inline_block"><br>
  <img aling="center" alt="vini-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
 </div>

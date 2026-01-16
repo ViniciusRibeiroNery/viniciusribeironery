@@ -6,10 +6,10 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Gosto de cultivar plantas e minha cor favorita é roxo
 
-<img 
+<div>
+  <img 
   src="https://streak-stats.demolab.com
   ?user=viniciusribeironery
   &theme=dracula"
-/>
-
-
+  />
+</div>

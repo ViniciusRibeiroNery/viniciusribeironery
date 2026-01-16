@@ -18,7 +18,9 @@
   
 # Linguagens
 
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm">
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=py">
+</div>
 
 ##
 

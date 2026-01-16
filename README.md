@@ -1,4 +1,4 @@
-<img width="3000" src="https://capsule-render.vercel.app/api?type=rect&height=110&color=6F2DA8&section=header&reversal=true&textBg=false&descAlign=50&descAlignY=50">
+<img width="3000" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6F2DA8&section=header&reversal=true&textBg=false&descAlign=50&descAlignY=50">
 
 ## Oi, meu nome é Vinicius Nery!
 

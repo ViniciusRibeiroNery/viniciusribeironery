@@ -24,6 +24,8 @@
  <img width="100" height="100" src="https://skillicons.dev/icons?i=py">
 </div>
 
+##
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusribeironery&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusribeironery&theme=midnight_purple) |
 |:-:|:-:|
 
@@ -32,11 +34,11 @@
  <a href="https://www.linkedin.com/in/vinicius-ribeiro-nery/" target="_blank"><img align="left" width="100" height="100" src="https://img.shields.io/badge/Linkedin-%236F2DA8?style=for-the-badge&logoColor=white"></a>
 </div>
 
-<div align="center">
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusribeironery/viniciusribeironery/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciusribeironery/viniciusribeironery/output/github-contribution-grid-snake.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viniciusribeironery/viniciusribeironery/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viniciusribeironery/viniciusribeironery/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 

@@ -1,7 +1,7 @@
 ## Oi, sou o Vinicius Nery!
 ## Sobre
 <table>
-  <td width="70px">
+  <td width="150px">
     <p align="justify">
       Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e tenho interesse em seguir carreira na área de dados. Trabalho com Python aplicado à análise de dados e automações, além de possuir conhecimentos em Excel (VBA), Power BI e bancos de dados.        Estou sempre buscando aprender,              praticar e evoluir, focando em soluções eficientes, organizadas e orientadas a dados
     </p>

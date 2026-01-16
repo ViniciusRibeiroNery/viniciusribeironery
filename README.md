@@ -9,7 +9,8 @@
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
  <tr>
   <td width="75%">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Oi%2C+meu+nome+%C3%A9+Vinicius+Nery!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Sou+formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+pela+FIAP+e+tenho+interesse+em+seguir+carreira+na+%C3%A1rea+de+dados.+Trabalho+com+Python+aplicado+%C3%A0+an%C3%A1lise+de+dados+e+automa%C3%A7%C3%B5es%2C+al%C3%A9m+de+possuir+conhecimentos+em+Excel+%28VBA%29%2C+Power+BI+e+bancos+de+dados.+Estou+sempre+buscando+aprender%2C+praticar+e+evoluir%2C+focando+em+solu%C3%A7%C3%B5es+eficientes%2C+organizadas+e+orientadas+a+dados.
+" alt="Typing SVG" /></a>
     </p>
   </td>
   <td>

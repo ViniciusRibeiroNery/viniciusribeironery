@@ -1,16 +1,16 @@
 ## Oi, sou o Vinicius Nery!
 ## Sobre
-<div class="Sobre-container">
-  
-  <div class="Sobre">
-    <p>  Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e tenho interesse em seguir carreira na área de dados. Trabalho com Python aplicado à análise de dados e automações, além de possuir conhecimentos em Excel (VBA), Power BI e bancos de dados.        Estou sempre buscando aprender,           praticar e evoluir, focando em soluções eficientes, organizadas e orientadas a dados
+<table>
+  <td width="70px">
+    <p align="justify">
+      Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e tenho interesse em seguir carreira na área de dados. Trabalho com Python aplicado à análise de dados e automações, além de possuir conhecimentos em Excel (VBA), Power BI e bancos de dados.        Estou sempre buscando aprender,              praticar e evoluir, focando em soluções eficientes, organizadas e orientadas a dados
     </p>
-  </div>
-  
-  <div class="Gif">
-    <img align="right" alt="vini-gengar" height= "140" width="140" src="https://media.tenor.com/7nOwCz3oGYYAAAAi/gengar.gif">
-  </div>
-</div>
+  </td>
+  <td>
+    <td width="30%" align="center">
+      <img alt="vini-gengar" height= "140" width="140" src="https://media.tenor.com/7nOwCz3oGYYAAAAi/gengar.gif">
+  </td>
+</table>
   
 # Linguagens
 

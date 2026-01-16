@@ -10,10 +10,6 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Gosto de cultivar plantas e minha cor favorita é roxo
 
-<div>
-  <img align="right" alt="vini-gengar" height= "140" width="140" src="https://media.tenor.com/7nOwCz3oGYYAAAAi/gengar.gif">
-</div>
-
 # Linguagens
 
 <div style = "display: inline_block"><br>

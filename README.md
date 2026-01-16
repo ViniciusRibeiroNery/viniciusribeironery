@@ -7,7 +7,7 @@
     </p>
   </td>
   <td>
-    <td width="30%" align="center">
+    <td width="10%" align="center">
       <img alt="vini-gengar" height= "140" width="140" src="https://media.tenor.com/7nOwCz3oGYYAAAAi/gengar.gif">
   </td>
 </table>

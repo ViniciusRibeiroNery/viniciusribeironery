@@ -9,7 +9,7 @@
 # Linguagens
 <div style = "display: inline_block"><br>
  <img align="center" alt="vini-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
- <img align="right" alt="vini-gengar" src="[[https://media.tenor.com/8wK0vZQK6nIAAAAC/gengar-pokemon.gif](https://media.tenor.com/8wK0vZQK6nIAAAAC/gengar-pokemon.gif)](https://media.tenor.com/7nOwCz3oGYYAAAAi/gengar.gif)">
+ <img align="right" alt="vini-gengar" src="https://media.tenor.com/7nOwCz3oGYYAAAAi/gengar.gif">
 
 ##
 

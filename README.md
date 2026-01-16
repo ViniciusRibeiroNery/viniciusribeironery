@@ -19,7 +19,7 @@
 # Linguagens
 
 <div style = "display: inline_block"><br>
- <img align="center" alt="vini-python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
+ <img align="center-mid" alt="vini-python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
 </div>
 
 ##

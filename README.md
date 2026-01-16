@@ -8,8 +8,9 @@
 
 <div>
   <img 
-  src="https://streak-stats.demolab.com
-  ?user=viniciusribeironery
-  &theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details
+    ?username=viniciusribeironery
+    &theme=dracula"
   />
+
 </div>

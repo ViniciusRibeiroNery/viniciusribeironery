@@ -19,14 +19,14 @@
 # Linguagens
 
 <div style = "display: inline_block"><br>
- <img align="center" alt="vini-python" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
+ <img align="center" alt="vini-python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> 
 </div>
 
 ##
 
 <div>
- <a href="vininery2006@gmail.com" target="_blank"><img align="center" width="200" height="200" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/vinicius-ribeiro-nery/" target="_blank"><img align="center" width="200" height="200" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="vininery2006@gmail.com" target="_blank"><img align="center" width="100" height="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/vinicius-ribeiro-nery/" target="_blank"><img align="center" width="100" height="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ##

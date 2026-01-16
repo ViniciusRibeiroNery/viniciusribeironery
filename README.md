@@ -6,9 +6,5 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Gosto de cultivar plantas e minha cor favorita é roxo
 
-<div>
-  <a href="https://beacons.ai/viniciusribeironery"> 
-  <img height="180em" srcset="https://github-readme-stats.vercel.app/api?username=viniciusribeironery&show_icons=true&theme=dracula&include_all_commits=true">
-  
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusribeironery&show_icons=true&theme=dracula&include_all_commits=true)
+

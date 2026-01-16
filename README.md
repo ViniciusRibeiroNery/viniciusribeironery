@@ -9,7 +9,7 @@
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
  <tr>
   <td width="75%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=FFFFFF&width=800&lines=Sou+formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+pela+FIAP;Atuo+com+Python%2C+Dados+e+Automa%C3%A7%C3%B5es" />
+   <p>Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e tenho interesse em seguir carreira na área de dados. Trabalho com Python aplicado à análise de dados e automações, além de possuir conhecimentos em Excel (VBA), Power BI e bancos de dados. Estou sempre buscando aprender, praticar e evoluir, focando em soluções eficientes, organizadas e orientadas a dados.</p>
   </td>
   <td>
     <td width="25%" align="center">

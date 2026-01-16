@@ -10,7 +10,7 @@
  <tr>
   <td width="75%">
    <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=800&lines=Sou+formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+pela+FIAP;Tenho+interesse+em+seguir+carreira+na+%C3%A1rea+de+dados;Trabalho+com+Python%2C+automa%C3%A7%C3%B5es%2C+Excel+VBA+e+Power+BI;Sempre+buscando+aprender+e+evoluir"
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FFFFFF&width=800&lines=Sou+formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+pela+FIAP;Tenho+interesse+em+seguir+carreira+na+%C3%A1rea+de+dados;Trabalho+com+Python%2C+automa%C3%A7%C3%B5es%2C+Excel+VBA+e+Power+BI;Sempre+buscando+aprender+e+evoluir"
     alt="Typing SVG"/>
    </a>
   </td>

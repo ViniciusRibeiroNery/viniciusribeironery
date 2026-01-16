@@ -1,4 +1,4 @@
-## Oi, sou o Vinicius Nery!
+## Oi, meu nome é Vinicius Nery!
 
 <h2>Sobre</h2>
 

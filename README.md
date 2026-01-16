@@ -1,5 +1,9 @@
 ## Oi, sou o Vinicius Nery!
 ## Sobre
+
+<div>
+  <img align="right" alt="vini-gengar" height= "140" width="140" src="https://media.tenor.com/7nOwCz3oGYYAAAAi/gengar.gif">
+</div>
 - 🔭 Atualmente trabalho com dados, python e automações
 - 🌱 Estou estudando python
 - 👯 Email para contado: vininery2006@gmail.com

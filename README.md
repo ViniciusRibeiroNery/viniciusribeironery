@@ -1,6 +1,6 @@
 ## Oi, sou o Vinicius Nery!
 
-<h3>Sobre</h3>
+<h2>Sobre</h2>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
  <tr>

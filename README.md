@@ -7,8 +7,7 @@
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
  <tr>
   <td width="75%">
-    <p align="justify">
-      Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e tenho interesse em seguir carreira na área de dados. Trabalho com Python aplicado à análise de dados e automações, além de possuir conhecimentos em Excel (VBA), Power BI e bancos de dados.        Estou sempre buscando aprender,              praticar e evoluir, focando em soluções eficientes, organizadas e orientadas a dados
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Oi%2C+meu+nome+%C3%A9+Vinicius+Nery!" alt="Typing SVG" /></a>
     </p>
   </td>
   <td>

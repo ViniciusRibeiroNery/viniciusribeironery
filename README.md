@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img align="center" width="1000" height="50" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Oi%2C+meu+nome+%C3%A9+Vinicius+Nery!" alt="Typing SVG" /></a>
 </div>
 
-<h2><a href="https://git.io/typing-svg"><img width="800" height="75"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&repeat=false&width=435&lines=Sobre" alt="Typing SVG" /></a></h2>
+<h2><a href="https://git.io/typing-svg"><img width="1000" height="75"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&repeat=false&width=435&lines=Sobre" alt="Typing SVG" /></a></h2>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
  <tr>
@@ -18,7 +18,7 @@
  </tr>   
 </table>
   
-<h2><a href="https://git.io/typing-svg"><img width="800" height="100"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&repeat=false&width=435&lines=Linguagens" alt="Typing SVG"/></a></h2>
+<h2><a href="https://git.io/typing-svg"><img width="1000" height="100"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&repeat=false&width=435&lines=Linguagens" alt="Typing SVG"/></a></h2>
 
 <div align="center">
  <img width="100" height="100" src="https://skillicons.dev/icons?i=py">

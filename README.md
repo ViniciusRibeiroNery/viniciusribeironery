@@ -8,7 +8,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
  <tr>
-  <td width="35%">
+  <td width="75%">
    <p>Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e tenho interesse em seguir carreira na área de dados. Trabalho com Python aplicado à análise de dados e automações, além de possuir conhecimentos em Excel (VBA), Power BI e bancos de dados. Estou sempre buscando aprender, praticar e evoluir, focando em soluções eficientes, organizadas e orientadas a dados.</p>
   </td>
   <td>
@@ -18,7 +18,7 @@
  </tr>   
 </table>
   
-<h2><a href="https://git.io/typing-svg"><img width="800" height="800"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&repeat=false&width=435&lines=Linguagens" alt="Typing SVG"/></a></h2>
+<h2><a href="https://git.io/typing-svg"><img width="800" height="100"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&repeat=false&width=435&lines=Linguagens" alt="Typing SVG"/></a></h2>
 
 <div align="center">
  <img width="100" height="100" src="https://skillicons.dev/icons?i=py">

@@ -8,7 +8,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
  <tr>
-  <td width="75%">
+  <td width="35%">
    <p>Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e tenho interesse em seguir carreira na área de dados. Trabalho com Python aplicado à análise de dados e automações, além de possuir conhecimentos em Excel (VBA), Power BI e bancos de dados. Estou sempre buscando aprender, praticar e evoluir, focando em soluções eficientes, organizadas e orientadas a dados.</p>
   </td>
   <td>
